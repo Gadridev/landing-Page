@@ -1,40 +1,25 @@
-🌅 Sunset — Calm-Inspired Landing Page
+# 🌿 Calm Landing Page – UI Clone
 
-A modern and responsive landing page inspired by the Calm application.
-This project focuses on practicing HTML and CSS layouting, hero sections, masks, grids, testimonials, and responsive UI.
+A clean, modern landing page inspired by the Calm website.  
+This project focuses on **responsive design**, **CSS Grid & Flexbox**, and a soft premium color palette using **#9b642a**.
 
-⭐ Overview
+---
 
-This landing page includes:
+## 🚀 Features
 
-Navigation bar
+- ✨ Modern hero section with smooth fade overlay  
+- 🖼️ Horizontal image gallery (no JS)  
+- 🎨 Premium warm brown color palette (`#9b642a`)  
+- 🌊 Top and bottom fade effect using `mask-image`  
+- 📱 Fully responsive layout  
+- 🧩 Clean sections (cards, footer, gallery, etc.)  
 
-Full-screen header image with gradient mask
+---
 
-Hero section
+## 🛠️ Technologies Used
 
-Feature cards
+- **HTML5**  
+- **CSS3** (Flexbox, Grid, mask-image)
 
-Image gallery
+---
 
-CSS-only testimonials slider
-
-Pricing section
-
-Multi-column footer
-
-🎨 Features
-✔️ Responsive Navigation Bar
-✔️ Full-Screen Hero Image
-✔️ Feature Cards
-✔️ Image Gallery
-✔️ Testimonials (CSS Slider)
-✔️ Pricing Section
-✔️ Footer
-🛠️ Tech Stack
-Technology	Use
-HTML5	Structure
-CSS3	Layout & animations
-Google Fonts / Icons	Typography & icons
-
-No JavaScript used.
